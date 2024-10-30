@@ -179,7 +179,3 @@ def train(epochs):
         if i % 5 == 0:
             print(f"The total loss at epoch {i} is:{validation_test()}")
             model.save_checkpoint()
-
-# train(51)
-
-test()
