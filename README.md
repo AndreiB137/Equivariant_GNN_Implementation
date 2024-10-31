@@ -25,6 +25,10 @@ In the figure below there are the results compared with the paper after 10 epoch
 Table 1
 </p>
 
+## Acknowledgements
+
+* [EGNN](https://github.com/AndreiB137/Graph-Convolutions-and-NGD-Optimization)
+
 ## Citation
 
 If you find this repository useful, please cite the following:
