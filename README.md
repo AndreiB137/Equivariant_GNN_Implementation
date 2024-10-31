@@ -24,6 +24,7 @@ In the figure below there are the results compared with the paper after 10 epoch
 <img src="https://github.com/AndreiB137/Equivariant_GNN_Implementation/blob/main/FiguresTables/Screenshot%202024-10-31%20at%2010.59.36.png">
 Table 1
 </p>
+
 ## Citation
 
 If you find this repository useful, please cite the following:
